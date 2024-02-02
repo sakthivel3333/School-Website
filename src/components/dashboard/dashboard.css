@@ -1,8 +1,8 @@
 :root {
-    --main-bg-color: #009d63;
-    --main-text-color: #009d63;
+    --main-bg-color: #9d9d00fb;
+    --main-text-color: #000a9db0;
     --second-text-color: #bbbec5;
-    --second-bg-color: #c1efde;
+    --second-bg-color: #a910138f;
   }
   
   .primary-text {
@@ -27,7 +27,7 @@
   
   #wrapper {
     overflow-x: hidden;
-    background-color: #ededed;
+    background-color: hwb(0 93% 7%);
   }
   
   #sidebar-wrapper {

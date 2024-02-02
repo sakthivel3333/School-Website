@@ -50,8 +50,6 @@ const Profile = () => {
                   <p className="text-muted mb-1">{userData?.Student_standard}</p>
                   <p className="text-muted mb-4">{userData?.student_email}</p>
                   <div className="d-flex justify-content-center mb-2">
-                    <button type="button" className="btn btn-primary">Follow</button>
-                    <button type="button" className="btn btn-outline-primary ms-1">Message</button>
                   </div>
                 </div>
               </div>

@@ -363,7 +363,7 @@ const secretKey = 'your-secret-key'; // Change this to a strong and unique secre
 const dbConfig = {
     host: '127.0.0.1',
     user: 'root',
-    password: 'vikram@49',
+    password: 'sakthi',
     database: 'dsrt',
     // port:3306
   };
